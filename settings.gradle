@@ -1,0 +1,5 @@
+rootProject.name = 'Homework-JC-1.4.2'
+include 'db'
+include 'api'
+include 'service'
+
